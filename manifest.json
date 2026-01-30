@@ -1,6 +1,6 @@
 {
-    "name": "blink_eye",
-    "short_name": "blink_eye",
+    "name": "Smart BlinkAid",
+    "short_name": "BlinkAid",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
